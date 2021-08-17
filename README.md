@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushrwt98
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Php with Mysql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - ayush.rawat2123@gmail.com
 
